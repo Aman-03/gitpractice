@@ -1,1 +1,1 @@
-console.log("initial local repo")
+console.log("init cut now dev pull")
